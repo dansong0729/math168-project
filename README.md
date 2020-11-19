@@ -12,3 +12,5 @@ Data from
 }
 
 downloaded from http://snap.stanford.edu/data/soc-RedditHyperlinks.html
+
+The code expects the data at "data/body.tsv" and "data/title.tsv", which are omitted from the repo due to size constraints.
