@@ -1,6 +1,7 @@
 # math168-project
 
 Data from
+
 @inproceedings{kumar2018community,
   title={Community interaction and conflict on the web},
   author={Kumar, Srijan and Hamilton, William L and Leskovec, Jure and Jurafsky, Dan},
